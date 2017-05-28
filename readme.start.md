@@ -42,5 +42,5 @@ The algorithm for generating the distribution list is implemented as a method in
 
 ## Modules in this distribution
 
-| Module Name | Recursive Citation Index |
-|---| :---: |
+| Module Name | Recursive Citation Index | Module Description |
+|---| :---: | :--- |

@@ -42,35 +42,35 @@ The algorithm for generating the distribution list is implemented as a method in
 
 ## Modules in this distribution
 
-| Module Name | Recursive Citation Index |
-|---| :---: |
-| JSON::Fast | 32.69 |
-| MIME::Base64 | 25 |
-| File::Directory::Tree | 23.46 |
-| File::Temp | 23.08 |
-| URI | 21.54 |
-| HTTP::Status | 20.38 |
-| JSON::Tiny | 18.08 |
-| JSON::Name | 13.85 |
-| Encode | 13.46 |
-| DateTime::Parse | 13.08 |
-| HTTP::UserAgent | 12.69 |
-| JSON::Unmarshal | 12.69 |
-| JSON::Marshal | 12.31 |
-| JSON::Class | 11.54 |
-| XML | 11.54 |
-| OpenSSL | 11.15 |
-| Terminal::ANSIColor | 11.15 |
-| Digest | 9.62 |
-| META6 | 8.85 |
-| PSGI | 8.85 |
-| Test::META | 8.08 |
-| File::Find | 7.69 |
-| IO::Socket::SSL | 7.69 |
-| DateTime::Format | 7.31 |
-| File::Which | 7.31 |
-| LibraryMake | 7.31 |
-| HTTP::Easy | 6.54 |
-| Digest::HMAC | 6.15 |
-| JSON::Pretty | 6.15 |
-| LWP::Simple | 6.15 |
+| Module Name | Recursive Citation Index | Module Description |
+|---| :---: | :--- |
+| JSON::Fast | 32.69 | A naive, fast json parser and serializer; drop-in replacement for JSON::Tiny |
+| MIME::Base64 | 25 | Encoding and decoding Base64 ASCII strings |
+| File::Directory::Tree | 23.46 | Port of File::Path::Tiny - create and delete directory trees |
+| File::Temp | 23.08 | Create temporary files & directories |
+| URI | 21.54 | A URI implementation using Perl 6 grammars to implement RFC 3986 BNF |
+| HTTP::Status | 20.38 | Get the text message associated with an HTTP status code |
+| JSON::Tiny | 18.08 | A minimal JSON (de)serializer |
+| JSON::Name | 13.85 | Provides a trait to store an alternative JSON Name |
+| Encode | 13.46 | Character encodings in Perl 6 |
+| DateTime::Parse | 13.08 | DateTime parser |
+| HTTP::UserAgent | 12.69 | Web user agent |
+| JSON::Unmarshal | 12.69 | Turn JSON into objects |
+| JSON::Marshal | 12.31 | Simple serialisation of objects to JSON |
+| JSON::Class | 11.54 | role to provide simple serialisation/deserialisation of objects to/from JSON |
+| XML | 11.54 | A full-featured, pure-perl XML library (parsing, manipulation, emitting, queries, etc.) |
+| OpenSSL | 11.15 | OpenSSL bindings |
+| Terminal::ANSIColor | 11.15 | Colorize terminal output |
+| Digest | 9.62 | Pure perl6 implementation of digest algorigthms. |
+| META6 | 8.85 | Work with Perl 6 META files |
+| PSGI | 8.85 | A PSGI helper library. |
+| Test::META | 8.08 | Test a distributions META file |
+| File::Find | 7.69 | File::Find for Perl 6 |
+| IO::Socket::SSL | 7.69 | IO::Socket::SSL for Perl 6 using OpenSSL |
+| DateTime::Format | 7.31 | strftime and other DateTime formatting libraries |
+| File::Which | 7.31 | Cross platform Perl 6 executable path finder (aka which on UNIX) |
+| LibraryMake | 7.31 | An attempt to simplify native compilation |
+| HTTP::Easy | 6.54 | HTTP servers made easy, including PSGI |
+| Digest::HMAC | 6.15 | Generic HMAC implementation |
+| JSON::Pretty | 6.15 | A minimal JSON (de)serializer that produces easily readable JSON |
+| LWP::Simple | 6.15 | LWP::Simple quick & dirty implementation for Rakudo Perl 6 |
