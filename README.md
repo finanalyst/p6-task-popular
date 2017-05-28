@@ -1,7 +1,7 @@
 # Task::Popular
 [Introduction](#introduction)  
 [Problems](#problems)  
-[Update](#update-and-software)  
+[Updates and Algorithm](#updates-and-algorithm)  
 [Module Listing](#modules-in-this-distribution)
 
 ## Introduction
@@ -41,7 +41,7 @@ has a lot of support, although J/Fast is taking over (see the  ModuleCitation pa
 So the Task::Popular list may have alternate modules for the same functionality. But for a newcomer to the Ecosystem
 that might in fact be interesting as it provides a choice, and the opportunity to compare coding styles.
 
-## Updates and Software
+## Updates and Algorithm
 
 The aim is to update the list regularly (eg. monthly).
 
