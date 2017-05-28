@@ -4,8 +4,7 @@
 [Update](#update)  
 [Module Listing](#mods)
 
-<a name="intro"/>  
-## Introduction
+# Introduction
 
 The developers of Perl6 decided early on that the implementation
 of the language (eg. Rakudo) would be available with a bare minimum of "core" modules.
@@ -32,7 +31,7 @@ frequently used, it can be fairly safely assumed they will be regularly maintain
 
 This list uses [Citation Indices](http://finanalyst.github.io/ModuleCitation/) to identify the 30 modules most recursively popular modules in the Ecosystem.
 
-## Problems
+# Problems
 
 Inevitably for commonly needed functionality, there may be multiple modules that provide the same functionality.
 An example is JSON::Tiny and JSON::Fast. J/Fast was designed to be a drop-in replacement for J/Tiny, which
@@ -43,15 +42,14 @@ So the Task::Popular list may have alternate modules for the same functionality.
 that might in fact be interesting as it provides a choice, and the opportunity to compare coding styles.
 
 <a name="update"/>  
-
-## Updates and Software
+# Updates and Software
 
 The aim is to update the list regularly (eg. monthly).
 
 The algorithm for generating the distribution list is implemented as a method in the [ModuleCitation class](https://github.com/finanalyst/ModuleCitation).
 
 <a name="mods"/>  
-## Modules in this distribution
+# Modules in this distribution
 
 | Module Name | Recursive Citation Index | Module Description |
 |---| :---: | :--- |
