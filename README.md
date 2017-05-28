@@ -32,7 +32,6 @@ frequently used, it can be fairly safely assumed they will be regularly maintain
 
 This list uses [Citation Indices](http://finanalyst.github.io/ModuleCitation/) to identify the 30 modules most recursively popular modules in the Ecosystem.
 
-<a name="probs"/>  
 ## Problems
 
 Inevitably for commonly needed functionality, there may be multiple modules that provide the same functionality.
@@ -44,6 +43,7 @@ So the Task::Popular list may have alternate modules for the same functionality.
 that might in fact be interesting as it provides a choice, and the opportunity to compare coding styles.
 
 <a name="update"/>  
+
 ## Updates and Software
 
 The aim is to update the list regularly (eg. monthly).
