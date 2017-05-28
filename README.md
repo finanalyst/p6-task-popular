@@ -1,8 +1,8 @@
 # Task::Popular
-[Introduction](#intro)  
-[Problems](#probs)  
+[Introduction](#introduction)  
+[Problems](#problems)  
 [Update](#update)  
-[Module Listing](#mods)
+[Module Listing](#module)
 
 # Introduction
 
@@ -41,14 +41,13 @@ has a lot of support, although J/Fast is taking over (see the  ModuleCitation pa
 So the Task::Popular list may have alternate modules for the same functionality. But for a newcomer to the Ecosystem
 that might in fact be interesting as it provides a choice, and the opportunity to compare coding styles.
 
-<a name="update"/>  
-# Updates and Software
+
+## Updates and Software
 
 The aim is to update the list regularly (eg. monthly).
 
 The algorithm for generating the distribution list is implemented as a method in the [ModuleCitation class](https://github.com/finanalyst/ModuleCitation).
 
-<a name="mods"/>  
 # Modules in this distribution
 
 | Module Name | Recursive Citation Index | Module Description |
