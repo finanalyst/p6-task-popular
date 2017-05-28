@@ -1,16 +1,22 @@
 # Task::Popular
+[Introduction](#intro)
+[Problems](#probs)
+[Update](#update)
+[Module Listing](#mods)
+
+<a name="intro"/>
 ## Introduction
 
 The developers of Perl6 decided early on that the implementation
 of the language (eg. Rakudo) would be available with a bare minimum of "core" modules.
 Some modules are essential, such as Test, or the module manager (previously `panda`, currently `zef`).
 
-The intention is for user / user groups to contribute distributions that meet a specific topic area.
+The intention is for users / user groups to contribute distributions that meet a specific topic area.
 Rakudo is available in a package called `Rakudo Star` with a minimal number of modules.
 
 However, for someone coming to Perl6 for the first time, there is a natural question as to which
 modules 'should' be installed first to provide the dependencies most other modules will need.
-Since 'should' can be quite subjective, and space is a limited resource, there no ideal solution has yet appeared.
+Since 'should' can be quite subjective, and space is a limited resource, there no solution for newcomers has yet been agreed.
 
 Another problem (at the time of writing) is that Perl6 has a rapidly expanding Ecosystem (available modules),
 whilst the language itself
@@ -26,6 +32,7 @@ frequently used, it can be fairly safely assumed they will be regularly maintain
 
 This list uses [Citation Indices](http://finanalyst.github.io/ModuleCitation/) to identify the 30 modules most recursively popular modules in the Ecosystem.
 
+<a name="probs"/>
 ## Problems
 
 Inevitably for commonly needed functionality, there may be multiple modules that provide the same functionality.
@@ -36,14 +43,14 @@ has a lot of support, although J/Fast is taking over (see the  ModuleCitation pa
 So the Task::Popular list may have alternate modules for the same functionality. But for a newcomer to the Ecosystem
 that might in fact be interesting as it provides a choice, and the opportunity to compare coding styles.
 
-## Updates
+<a name="update"/>
+## Updates and Software
 
 The aim is to update the list regularly (eg. monthly).
 
-## Software
-
 The algorithm for generating the distribution list is implemented as a method in the [ModuleCitation class](https://github.com/finanalyst/ModuleCitation).
 
+<a name="mods"/>
 ## Modules in this distribution
 
 | Module Name | Recursive Citation Index | Module Description |
