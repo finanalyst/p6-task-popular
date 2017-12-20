@@ -3,10 +3,10 @@
   "perl": "6.c",
   "source-url": "git://github.com/finanalyst/p6-task-popular.git",
   "build-depends": [
-    
+
   ],
   "resources": [
-    
+
   ],
   "depends": [
     "JSON::Fast",
@@ -40,12 +40,8 @@
     "JSON::Pretty",
     "URI::Encode"
   ],
-  "provides": [
-    
-  ],
-  "test-depends": [
-    
-  ],
+  "provides": {},
+  "test-depends": [],
   "license": "MIT",
   "version": "1.0",
   "authors": [
