@@ -41,13 +41,10 @@
     "URI::Encode"
   ],
   "provides": {},
-<<<<<<< HEAD
   "test-depends": [],
-=======
   "test-depends": [
 
   ],
->>>>>>> 26bec6199c06f01f8e14fb03d325dbfc3de90a53
   "license": "MIT",
   "version": "1.0",
   "authors": [
