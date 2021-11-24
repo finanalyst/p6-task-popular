@@ -25,39 +25,39 @@ This list uses [Citation Indices](http://finanalyst.github.io/ModuleCitation/) t
 
 | Module Name | Recursive Citation Index | Module Description |
 |---| :---: | :--- |
-| JSON::Fast | 37.87 | OOps description not found, please file issue at github repository of p6-task-popular |
-| URI | 31.56 | A URI implementation using Perl 6 grammars to implement RFC 3986 BNF |
-| MIME::Base64 | 28.9 | Encoding and decoding Base64 ASCII strings |
-| File::Directory::Tree | 26.58 | Port of File::Path::Tiny - create and delete directory trees |
-| File::Temp | 25.91 | Create temporary files & directories |
-| HTTP::Status | 23.59 | Get the text message associated with an HTTP status code |
-| JSON::Tiny | 18.94 | OOps description not found, please file issue at github repository of p6-task-popular |
-| OpenSSL | 17.94 | OpenSSL bindings |
-| JSON::Name | 16.28 | Provides a trait to store an alternative JSON Name |
-| Encode | 15.61 | Character encodings in Perl 6 |
-| DateTime::Parse | 15.28 | DateTime parser |
-| JSON::Unmarshal | 15.28 | Turn JSON into objects |
-| HTTP::UserAgent | 14.95 | Web user agent |
-| JSON::Marshal | 14.95 | Simple serialisation of objects to JSON |
-| Terminal::ANSIColor | 14.95 | Colorize terminal output |
-| JSON::Class | 14.29 | role to provide simple serialisation/deserialisation of objects to/from JSON |
-| HTML::Escape | 12.96 | Utility of HTML escaping |
-| LibraryMake | 11.96 | An attempt to simplify native compilation |
-| META6 | 11.63 | Work with Perl 6 META files |
-| File::Find | 11.3 | File::Find for Perl 6 |
-| Digest | 10.96 | Pure perl6 implementation of digest algorigthms. |
-| XML | 10.63 | A full-featured, pure-perl XML library (parsing, manipulation, emitting, queries, etc.) |
-| Test::META | 10.3 | Test a distributions META file |
-| IO::Socket::SSL | 9.97 | IO::Socket::SSL for Perl 6 using OpenSSL |
-| PSGI | 9.3 | A PSGI helper library. |
-| URI::Encode | 8.97 | Encode and decode URIs according to RFC 3986 |
-| File::Which | 8.31 | Cross platform Perl 6 executable path finder (aka which on UNIX) |
-| Digest::HMAC | 7.97 | Generic HMAC implementation |
-| HTTP::Easy | 7.31 | HTTP servers made easy, including PSGI |
-| JSON::Pretty | 7.31 | A minimal JSON (de)serializer that produces easily readable JSON |
+| JSON::Fast | 42.37 | OOps description not found, please file issue at github repository of p6-task-popular |
+| MIME::Base64 | 31.45 | Encoding and decoding Base64 ASCII strings |
+| File::Directory::Tree | 30.89 | Port of File::Path::Tiny - create and delete directory trees |
+| URI | 28.44 | A URI implementation using Raku grammars to implement RFC 3986 BNF |
+| OpenSSL | 24.11 | OpenSSL bindings |
+| File::Temp | 23.35 | OOps description not found, please file issue at github repository of p6-task-popular |
+| File::Find | 19.02 | File::Find for Raku |
+| File::Which | 18.27 | Cross platform Perl 6 executable path finder (aka which on UNIX) |
+| HTTP::Status | 16.76 | Get the text message associated with an HTTP status code |
+| DateTime::Parse | 16.57 | DateTime parser |
+| Terminal::ANSIColor | 16.57 | Colorize terminal output |
+| JSON::OptIn | 16.38 | OOps description not found, please file issue at github repository of p6-task-popular |
+| JSON::Name | 16.2 | OOps description not found, please file issue at github repository of p6-task-popular |
+| JSON::Unmarshal | 15.63 | Turn JSON into objects |
+| JSON::Marshal | 15.44 | OOps description not found, please file issue at github repository of p6-task-popular |
+| JSON::Tiny | 15.25 | OOps description not found, please file issue at github repository of p6-task-popular |
+| JSON::Class | 15.07 | OOps description not found, please file issue at github repository of p6-task-popular |
+| Shell::Command | 14.12 | Common shell command replacements |
+| IO::Socket::SSL | 13.94 | IO::Socket::SSL for Perl 6 using OpenSSL |
+| META6 | 12.62 | OOps description not found, please file issue at github repository of p6-task-popular |
+| Digest | 12.43 | Pure perl6 implementation of digest algorigthms. |
+| Encode | 12.24 | Character encodings in Perl 6 |
+| LibraryMake | 12.24 | An attempt to simplify native compilation |
+| HTTP::UserAgent | 11.86 | Web user agent |
+| License::SPDX | 11.68 | OOps description not found, please file issue at github repository of p6-task-popular |
+| Test::META | 11.49 | OOps description not found, please file issue at github repository of p6-task-popular |
+| YAMLish | 10.92 | a YAML parser/emitter written in pure raku |
+| OO::Monitors | 10.73 | OOps description not found, please file issue at github repository of p6-task-popular |
+| Digest::HMAC | 10.55 | Generic HMAC implementation |
+| Hash::Merge | 9.6 | OOps description not found, please file issue at github repository of p6-task-popular |
 ## Date of Compilation
 
-This list was compiled on 2018-01-01.
+This list was compiled on 2021-11-24.
 
 ## Problems
 
