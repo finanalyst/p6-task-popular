@@ -1,55 +1,51 @@
 {
   "name": "Task::Popular",
-  "perl": "6.c",
-  "source-url": "git://github.com/finanalyst/p6-task-popular.git",
   "build-depends": [
-    
   ],
-  "resources": [
-    
-  ],
-  "depends": [
-    "JSON::Fast",
-    "URI",
-    "MIME::Base64",
-    "File::Directory::Tree",
-    "File::Temp",
-    "HTTP::Status",
-    "JSON::Tiny",
-    "OpenSSL",
-    "JSON::Name",
-    "Encode",
-    "DateTime::Parse",
-    "JSON::Unmarshal",
-    "HTTP::UserAgent",
-    "JSON::Marshal",
-    "Terminal::ANSIColor",
-    "JSON::Class",
-    "HTML::Escape",
-    "LibraryMake",
-    "META6",
-    "File::Find",
-    "Digest",
-    "XML",
-    "Test::META",
-    "IO::Socket::SSL",
-    "PSGI",
-    "URI::Encode",
-    "File::Which",
-    "Digest::HMAC",
-    "HTTP::Easy",
-    "JSON::Pretty"
-  ],
-  "provides": {
-    
-  },
-  "test-depends": [
-    
-  ],
-  "license": "MIT",
-  "version": "1.0",
+  "source-url": "git://github.com/finanalyst/p6-task-popular.git",
   "authors": [
     "Richard Hainsworth aka finanalyst"
   ],
-  "description": "Popular modules with high recursive citation indices"
+  "resources": [
+  ],
+  "test-depends": [
+  ],
+  "depends": [
+    "JSON::Fast",
+    "MIME::Base64",
+    "File::Directory::Tree",
+    "URI",
+    "OpenSSL",
+    "File::Temp",
+    "File::Find",
+    "File::Which",
+    "HTTP::Status",
+    "DateTime::Parse",
+    "Terminal::ANSIColor",
+    "JSON::OptIn",
+    "JSON::Name",
+    "JSON::Unmarshal",
+    "JSON::Marshal",
+    "JSON::Tiny",
+    "JSON::Class",
+    "Shell::Command",
+    "IO::Socket::SSL",
+    "META6",
+    "Digest",
+    "Encode",
+    "LibraryMake",
+    "HTTP::UserAgent",
+    "License::SPDX",
+    "Test::META",
+    "YAMLish",
+    "OO::Monitors",
+    "Digest::HMAC",
+    "Hash::Merge"
+  ],
+  "provides": {
+  },
+  "version": "1.0",
+  "license": "MIT",
+  "description": "Popular modules with high recursive citation indices",
+  "perl": "6.c"
 }
